@@ -5,7 +5,7 @@
 
 	<groupId>cl.iocco</groupId>
 	<artifactId>kundertest</artifactId>
-	<version>0.0.1</version>
+	<version>1.0</version>
 	<packaging>war</packaging>
 
 	<name>kundertest</name>
